@@ -191,7 +191,7 @@ function primeAudioEngine() {
         } else {
             console.log("Loading audio engine...");
             sprites = new Howl({
-                src: ["/audio/sprites.mp3", "/audio/sprites.wav"],
+                src: ["audio/sprites.mp3", "audio/sprites.wav"],
                 preload: true,
                 html5: false,
                 sprite: {

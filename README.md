@@ -1,7 +1,8 @@
 Dual-N-Back Game
 ======
 
-Play it online at [https://dual-n-back.io/](https://www.dual-n-back.io/).
+Play it online at [https://kiliansinger.github.io/Dual-N-Back/](https://kiliansinger.github.io/Dual-N-Back/).
+Cloned from https://www.dual-n-back.io/ and translated to German letters.
 
 Based on the task originally proposed by [1], and adapted by [2]. Dual N-Back has been shown to improve working memory over time. For more information see [3] and [4].
 
